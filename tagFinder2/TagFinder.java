@@ -3,7 +3,7 @@
  * A protein is a part of the DNA strand marked by start and stop codons (DNA triples)
  * that is a multiple of 3 letters long.
  *
- * @author Duke Software Team 
+ * @author Saket
  */
 import edu.duke.*;
 import java.io.*;
