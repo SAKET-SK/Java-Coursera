@@ -1,7 +1,7 @@
 /**
- * Find the highest (hottest) temperature in any number of files of CSV weather data chosen by the user.
+ * Exercise 3 :- Find the highest (hottest) temperature in any number of files of CSV weather data chosen by the user.
  * 
- * @author Duke Software Team 
+ * @author Saket K
  */
 import edu.duke.*;
 import org.apache.commons.csv.*;
